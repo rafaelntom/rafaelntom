@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning React.<br><br>🌱 I’m currently learning some basic front-end skills and libraries, like react, tailwind,<br>axios, styledmodules.<br><br>💬 Ask me about anything!<br>
+🔭 I’m currently working on learning React.<br><br>🌱 I’m currently learning some basic front-end skills and libraries, like react, tailwind,<br>axios, styledmodules redux and typescript.<br><br>💬 Ask me about anything!<br>
 
 
 ## 🌐 Socials:
@@ -10,7 +10,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rafaelntom&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rafaelntom&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelntom&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 <!-- -->
