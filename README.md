@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [some back-end projects](https://github.com/rafaelntom/back-end-repos)
 
-- 🌱 I’m currently learning **Python, Django, Django Rest Framework**
+- 🌱 I’m currently learning **Angular, Docker and reviewing express, django and NextJs**
 
 - 📫 How to reach me **rafaelnt83@gmail.com**
 
